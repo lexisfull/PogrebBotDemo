@@ -1,0 +1,13 @@
+package ru.panov.bot.pogrebbotdemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PogrebBotDemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PogrebBotDemoApplication.class, args);
+	}
+
+}
